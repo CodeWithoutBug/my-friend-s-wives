@@ -10,7 +10,6 @@ h3 {
   text-align: center;
 }
 
-/* ================= NAVBAR ================= */
 
 .navbar {
   height: 73px;
@@ -48,7 +47,6 @@ h3 {
   color: #aaa;
 }
 
-/* Navbar icons */
 
 .navbar img {
   width: 40px;
@@ -69,7 +67,6 @@ h3 {
   transform: scale(1.1);
 }
 
-/* ================= GRID ================= */
 
 .grid {
   display: grid;
@@ -79,7 +76,6 @@ h3 {
   padding: 30px;
 }
 
-/* Main Vtuber images */
 
 .grid img {
   width: 100%;
@@ -126,7 +122,6 @@ h3 {
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* LEFT SIDE */
 
 .ina-info {
   flex: 1;
@@ -156,7 +151,6 @@ h3 {
   margin: 10px 0;
 }
 
-/* RIGHT SIDE */
 
 .ina-image {
   flex: 1;
@@ -191,9 +185,6 @@ h3 {
   color: #584578;
 }
 
-/* ============================= */
-/* AZKI PROFILE */
-/* ============================= */
 
 .azki-profile {
   display: flex;
@@ -211,7 +202,6 @@ h3 {
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* LEFT SIDE */
 
 .azki-info {
   flex: 1;
@@ -241,7 +231,6 @@ h3 {
   margin: 10px 0;
 }
 
-/* RIGHT SIDE */
 
 .azki-image {
   flex: 1;
@@ -276,9 +265,6 @@ h3 {
   color: #f081a3;
 }
 
-/* ============================= */
-/* VIVI PROFILE */
-/* ============================= */
 
 .vivi-profile {
   display: flex;
@@ -296,7 +282,6 @@ h3 {
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* LEFT SIDE */
 
 .vivi-info {
   flex: 1;
@@ -326,7 +311,6 @@ h3 {
   margin: 10px 0;
 }
 
-/* RIGHT SIDE */
 
 .vivi-image {
   flex: 1;
